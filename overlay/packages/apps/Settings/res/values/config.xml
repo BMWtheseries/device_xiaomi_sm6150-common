@@ -16,4 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="pickup_sensor" translatable="false">xiaomi.sensor.pickup</string>
+
+    <!-- Whether to show a preference item for regulatory information in About phone -->
+    <bool name="config_show_regulatory_info">true</bool>
 </resources>
