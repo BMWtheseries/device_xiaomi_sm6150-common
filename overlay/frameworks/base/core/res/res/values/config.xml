@@ -507,9 +507,6 @@
     <bool name="config_dozePulsePickup">true</bool>
     <bool name="config_dozePulseTilt">true</bool>
 
-    <!-- For Enabling Battery Heath -->
-    <bool name="config_supportBatteryHealth">true</bool>
-
     <!-- Enables or disables haptic effect when the text insertion/selection handle is moved
          manually by the user. Off by default, since the expected haptic feedback may not be
          available on some devices. -->
